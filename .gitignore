@@ -1,0 +1,22 @@
+# Segredos / variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS / editores
+.DS_Store
+.vscode/
+.idea/
+

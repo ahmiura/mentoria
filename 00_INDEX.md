@@ -18,7 +18,7 @@ Este índice conecta a teoria matemática, os exemplos numéricos e os códigos 
   * Por que a derivada é igualada a zero (curva convexa)
   * O que significa $\mathbb{E}[\cdot]$ e o estimador não-viesado
 * [03. Regressão Linear Múltipla & Multicolinearidade](docs/03_regressao_linear_multipla.md)
-  * Notação matricial: $\mathbf{y} = \mathbf{X}oldsymbol{eta} + oldsymbol{\epsilon}$
+  * Notação matricial: $\mathbf{y} = \mathbf{X}\boldsymbol{\beta} + \boldsymbol{\epsilon}$
   * Solução analítica (Equações Normais) vs. Numérica (SVD)
   * Multicolinearidade prática (dataset Diabetes)
 * [04. Testes de Hipóteses: Teste t vs. Teste F](docs/04_testes_t_e_f.md)
@@ -29,7 +29,7 @@ Este índice conecta a teoria matemática, os exemplos numéricos e os códigos 
 ### 3. Classificação
 * [05. Regressão Logística, Sigmoide e o Número de Euler](docs/05_regressao_logistica_e_sigmoide.md)
   * Por que a regressão linear falha para probabilidade
-  * O que é a constante de Euler ($e pprox 2{,}71828$)
+  * O que é a constante de Euler ($e \approx 2{,}71828$)
   * Cálculo na mão da Sigmoide, Odds e Log-Odds
   * Máxima Verossimilhança (MLE) explicada com números
 * [06. Matriz de Confusão, Limiar de Decisão e Curva ROC-AUC](docs/06_matriz_confusao_e_roc_auc.md)
